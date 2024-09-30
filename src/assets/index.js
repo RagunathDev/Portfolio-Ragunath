@@ -7,13 +7,14 @@ import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
 // import shaq from './personal/shaq.jpg';
-import ragur from './personal/ragur.png';
+import ragur from './personal/NR.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
 import prototyping from './icons/prototyping.png';
 import github from './icons/github.png';
+import ins from './icons/ins.png';
 import linkedin from './icons/linkedin.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
@@ -67,6 +68,7 @@ export {
   frontend,
   prototyping,
   github,
+  ins,
   close,
   download,
   downloadHover,
