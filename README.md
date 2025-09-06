@@ -12,6 +12,7 @@ All projects and experiences included in this portfolio are the result of my own
 - Three.js
 - Framer Motion
 - TailwindCSS
+- Bootsrap
 
 ## Live Demo
 
