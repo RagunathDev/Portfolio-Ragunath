@@ -21,7 +21,7 @@ All projects and experiences included in this portfolio are the result of my own
 
 Happy coding and showcasing!
 
-## Show your support
+## Show your support an the # Portfolio
 
 Please..!!!Give a ⭐️ if you like this project!
-# Portfolio
+
