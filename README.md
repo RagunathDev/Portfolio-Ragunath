@@ -6,7 +6,7 @@ I created this portfolio to use as my own but ended up doing something else enti
 
 All projects and experiences included in this portfolio are the result of my own efforts and creativity. Please refrain from presenting them as your own.
 
-## Built With
+## Built With to use 
 
 - React.js
 - Three.js
@@ -23,5 +23,5 @@ Happy coding and showcasing!
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Please..!!!Give a ⭐️ if you like this project!
 # Portfolio
