@@ -150,6 +150,7 @@ const Projects = () => {
           ))}
         </div>
       </motion.div>
+      <p>These are base projects — for more of my work,Please Visit: <a className='px-3' href='https://github.com/RagunathDev/ ' > See More</a> </p>
     </div>
   );
 };

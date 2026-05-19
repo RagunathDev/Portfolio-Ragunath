@@ -35,7 +35,7 @@ top-0 z-20 bg-flashWhite sm:opacity-[0.97] xxs:h-[12vh]`}>
         /> */}
     <p style={{ color:"#000"}}>RAGU</p>
     </Link>
-    <ul className="list-none hidden sm:flex flex-row gap-14 mt-2">
+    {/* <ul className="list-none hidden sm:flex flex-row gap-14 mt-2">
         <div className="absolute inset-2.5 flex justify-end right-1">
             <div onClick={() => window.open('https://github.com/RagunathRa', '_blank')} className="bg-night sm:w-9 sm:h-9 w-11 h-11 rounded-full flex justify-center items-center cursor-pointer sm:opacity-[0.9] opacity-[0.8]">
                 <img
@@ -74,7 +74,7 @@ top-0 z-20 bg-flashWhite sm:opacity-[0.97] xxs:h-[12vh]`}>
                 />
             </a>
         </div>
-    </ul>
+    </ul> */}
     {/* mobile */}
     <div className="sm:hidden flex flex-1 w-screen justify-end items-center">
         {toggle ? (
